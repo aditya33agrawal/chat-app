@@ -1,1 +1,1 @@
-# A real time chat-app with certain rooms to join in and text another users in ther
+# A real time chat-app with some rooms to join in and text another users in there
